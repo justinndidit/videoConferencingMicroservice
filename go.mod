@@ -4,6 +4,7 @@ go 1.24.6
 
 require (
 	github.com/jackc/pgx/v4 v4.18.3
+	github.com/lpernett/godotenv v0.0.0-20230527005122-0de1d4c5ef5e
 	go.uber.org/zap v1.27.0
 )
 
